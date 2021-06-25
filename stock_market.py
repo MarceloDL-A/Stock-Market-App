@@ -94,4 +94,4 @@ def get_table_download_link(df):
 st.markdown(get_table_download_link(df), unsafe_allow_html=True)
 
 
-# referência: https://python.plainenglish.io/building-a-stock-market-app-with-python-streamlit-in-20-minutes-2765467870ee
+# https://python.plainenglish.io/building-a-stock-market-app-with-python-streamlit-in-20-minutes-2765467870ee
